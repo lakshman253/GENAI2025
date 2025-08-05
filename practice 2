@@ -1,0 +1,43 @@
+print("Hello World")
+print("lakshman")
+
+print("Shubrati is my name.\nMy age is 23")
+
+print(23)
+print(28+2)
+
+
+name="lakshman" #string
+age= 23 #int
+price=29.99 #floating value
+
+print(name)
+print(age)
+print(price)
+
+print("My Name is :", name)
+print("My age is :", age)
+print("the price of the book is: ", price)
+
+# '=' is an assignment operator
+
+age2= age
+print(age2)
+
+print(type(name))
+print(type(age))
+print(type(price))
+      
+# INT can be positive , negative and zero value
+
+Total = -389
+print(type(Total))
+
+a= 28
+b= None
+c= False
+
+print(type(a))
+print(type(b))
+print(type(c))
+
